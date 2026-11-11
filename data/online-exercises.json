@@ -1,0 +1,1303 @@
+{
+  "meta": {
+    "title": "Dream Big — online practice",
+    "title_zh": "放眼未來（Dream big）——網上練習",
+    "level": "Hong Kong P6, British school English",
+    "source": "Longman English Leap 6A, Chapter 2 Dream big (scanned working pages 14–25 only)",
+    "question_language": "en-GB",
+    "instruction_language": "zh-Hant",
+    "instruction_style": "Formal Traditional Chinese for student-facing directions; English for stems, options and answers.",
+    "spelling": "British (behaviour, programmes, practise as a verb, Maths). Keep hyphenation from the unit: hard-working, good-looking.",
+    "station_count": 5,
+    "question_count_core": 36,
+    "scoring_storage": "Specify content and expected interaction only. Do not assume a central score server, accounts, or saved results. Any scoring or storage can be added later.",
+    "marking_principles": {
+      "first_attempt_unhinted": "The first submit of an auto-marked item is the first attempt. Do not show the hint before that attempt.",
+      "hint_after_first_error": "If the first attempt is wrong, show first_error hint and allow retry. A later correct retry is not a first-correct result.",
+      "answer_matching": "Compare auto-marked answers case-insensitively. Ignore extra spaces and a final full stop or exclamation mark. Accept listed variants in accepted_answers. Normalise straight/curly apostrophes. For MCQs use correct_option_id, not literal answer-text equality.",
+      "teacher_review": "Open writing is not auto-marked and must not be treated as automatic mastery. Store or display the work for the teacher. Model answers are guidance only and are marked 範例／教師用 in the teacher key. Do not use a strict sentence-count regex that would reject abbreviations such as Mr."
+    }
+  },
+  "stations": [
+    {
+      "id": "S1",
+      "order": 1,
+      "title": "Job qualities",
+      "title_zh": "第一關：工作特質與形容詞",
+      "intro_zh": "本關練習形容詞特質（例如 patient、caring、attentive、outgoing）以及後綴 -ful 和 -ic。請先自行作答；如第一次答錯，才會出現提示。",
+      "intro_en": "Practise adjectives for job qualities, and the suffixes -ful and -ic.",
+      "question_count": 8,
+      "questions": [
+        {
+          "id": "S1-Q01",
+          "type": "mcq",
+          "prompt": "A teacher says, “OK. You can hand in your homework later,” after a pupil’s pet has died. The teacher is ________.",
+          "prompt_zh": "請選出最能形容這位教師的形容詞。",
+          "accepted_answers": [
+            "understanding"
+          ],
+          "hints": {
+            "first_error": "Think about a person who can see how someone else feels, and who is kind about it."
+          },
+          "feedback": {
+            "correct": "正確。答案是 understanding。",
+            "explanatory": "The teacher understands the pupil’s feelings and allows more time. The adjective is understanding. Outgoing means enjoying meeting people; good-looking is about appearance; athletic means good at sport."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "outgoing"
+            },
+            {
+              "id": "B",
+              "text": "understanding"
+            },
+            {
+              "id": "C",
+              "text": "good-looking"
+            },
+            {
+              "id": "D",
+              "text": "athletic"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S1-Q02",
+          "type": "mcq",
+          "prompt": "A girl says, “Sorry, I don’t understand.” Her friend calmly explains the same idea many times without getting angry. Her friend is ________.",
+          "prompt_zh": "請選出最能形容這位朋友的形容詞。",
+          "accepted_answers": [
+            "patient"
+          ],
+          "hints": {
+            "first_error": "The friend is willing to explain the same thing another time."
+          },
+          "feedback": {
+            "correct": "正確。答案是 patient。",
+            "explanatory": "A patient person can wait and try again. The friend explains the idea once more instead of getting angry. Brave is about facing danger; fit is about a strong, healthy body; creative is about new ideas."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "brave"
+            },
+            {
+              "id": "B",
+              "text": "fit"
+            },
+            {
+              "id": "C",
+              "text": "patient"
+            },
+            {
+              "id": "D",
+              "text": "creative"
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S1-Q03",
+          "type": "mcq",
+          "prompt": "A nurse is good at taking care of other people. She needs to be ________.",
+          "prompt_zh": "請選出最合適的形容詞。",
+          "accepted_answers": [
+            "caring"
+          ],
+          "hints": {
+            "first_error": "Look for the adjective that means kind and ready to look after people."
+          },
+          "feedback": {
+            "correct": "正確。答案是 caring。",
+            "explanatory": "Caring means taking care of others. That is a key quality for a nurse. Attentive is close, but it especially means paying close attention to people’s needs. Good-looking is about appearance; strong is about physical strength."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "good-looking"
+            },
+            {
+              "id": "B",
+              "text": "caring"
+            },
+            {
+              "id": "C",
+              "text": "artistic"
+            },
+            {
+              "id": "D",
+              "text": "strong"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S1-Q04",
+          "type": "mcq",
+          "prompt": "A flight attendant says, “I pay attention to passengers’ needs.” She is ________.",
+          "prompt_zh": "請選出最合適的形容詞。",
+          "accepted_answers": [
+            "attentive"
+          ],
+          "hints": {
+            "first_error": "The clue is “pay attention to … needs”."
+          },
+          "feedback": {
+            "correct": "正確。答案是 attentive。",
+            "explanatory": "Attentive means you notice and pay attention to what people need. Creative is about new ideas; fit is about health and exercise; brave is about facing danger."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "creative"
+            },
+            {
+              "id": "B",
+              "text": "fit"
+            },
+            {
+              "id": "C",
+              "text": "brave"
+            },
+            {
+              "id": "D",
+              "text": "attentive"
+            }
+          ],
+          "correct_option_id": "D"
+        },
+        {
+          "id": "S1-Q05",
+          "type": "mcq",
+          "prompt": "Someone who enjoys meeting people and talking to them is ________.",
+          "prompt_zh": "請選出最合適的形容詞。",
+          "accepted_answers": [
+            "outgoing"
+          ],
+          "hints": {
+            "first_error": "Think of a person who is friendly and likes meeting new people, such as a salesperson."
+          },
+          "feedback": {
+            "correct": "正確。答案是 outgoing。",
+            "explanatory": "Outgoing describes a person who likes meeting and talking to others. Calm means staying relaxed; careful means taking care to avoid mistakes; patient means able to wait and try again."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "calm"
+            },
+            {
+              "id": "B",
+              "text": "outgoing"
+            },
+            {
+              "id": "C",
+              "text": "careful"
+            },
+            {
+              "id": "D",
+              "text": "patient"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S1-Q06",
+          "type": "gap",
+          "prompt": "Complete the word with the suffix -ful: cheer + -ful = ________",
+          "prompt_zh": "請加上後綴 -ful，寫出完整的英文單詞。",
+          "accepted_answers": [
+            "cheerful"
+          ],
+          "hints": {
+            "first_error": "Add -ful to cheer, with no space in the middle."
+          },
+          "feedback": {
+            "correct": "正確。應填 cheerful。",
+            "explanatory": "Cheer + -ful makes cheerful, an adjective meaning happy and in a good mood. Other unit examples of -ful are beautiful and careful."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "accept_notes": "Accept only 'cheerful' (case-insensitive). Do not accept cheerfull or cheer ful."
+        },
+        {
+          "id": "S1-Q07",
+          "type": "gap",
+          "prompt": "Complete the word with the suffix -ic: A person who is good at art is ________.",
+          "prompt_zh": "請寫出表示「擅於藝術」的形容詞（後綴為 -ic）。",
+          "accepted_answers": [
+            "artistic"
+          ],
+          "hints": {
+            "first_error": "Start with art and use the same ending as in athletic."
+          },
+          "feedback": {
+            "correct": "正確。應填 artistic。",
+            "explanatory": "Artistic means good at art, for example drawing and painting. The suffix is -ic, as in athletic. Do not write artist (a person) or artisticc."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "accept_notes": "Accept only 'artistic' (case-insensitive)."
+        },
+        {
+          "id": "S1-Q08",
+          "type": "mcq",
+          "prompt": "In which word do the letters “ti” sound like “sh”?",
+          "prompt_zh": "請選出 ti 讀成 sh 音的單詞。可參考：當 ient 接在 t 或 c 後面時，ti 和 ci 讀如 sh。",
+          "accepted_answers": [
+            "patient"
+          ],
+          "hints": {
+            "first_error": "Look for the letters ti followed by ent. Say the word and listen for the sh sound."
+          },
+          "feedback": {
+            "correct": "正確。答案是 patient。",
+            "explanatory": "In patient, the letters ti before ent sound like sh. The same happens in ancient (ci). In obedient, the letters ient do not make a sh sound. Calm and outgoing do not have this spelling pattern."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "obedient"
+            },
+            {
+              "id": "B",
+              "text": "calm"
+            },
+            {
+              "id": "C",
+              "text": "patient"
+            },
+            {
+              "id": "D",
+              "text": "outgoing"
+            }
+          ],
+          "correct_option_id": "C"
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "order": 2,
+      "title": "Need to be",
+      "title_zh": "第二關：need to be / need to",
+      "intro_zh": "本關練習用 need to be 加形容詞說明工作所需特質，以及用 need to 加動詞說明職務。請先自行作答；如第一次答錯，才會出現提示。",
+      "intro_en": "Practise need to be + adjective for requirements, and need to + verb for duties.",
+      "question_count": 7,
+      "questions": [
+        {
+          "id": "S2-Q01",
+          "type": "mcq",
+          "prompt": "Designers need to be ________. They need to be good at drawing and painting.",
+          "prompt_zh": "請選出設計師需要具備的特質。",
+          "accepted_answers": [
+            "artistic"
+          ],
+          "hints": {
+            "first_error": "The clue is “good at drawing and painting”."
+          },
+          "feedback": {
+            "correct": "正確。答案是 artistic。",
+            "explanatory": "Artistic means good at art, including drawing and painting. This is the quality described in the clue. Creative means having new ideas."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "strong"
+            },
+            {
+              "id": "B",
+              "text": "artistic"
+            },
+            {
+              "id": "C",
+              "text": "patient"
+            },
+            {
+              "id": "D",
+              "text": "outgoing"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S2-Q02",
+          "type": "mcq",
+          "prompt": "Models need to be ________. They need to feel sure of themselves, not nervous, in front of a big audience.",
+          "prompt_zh": "請選出模特兒需要具備的特質。",
+          "accepted_answers": [
+            "confident"
+          ],
+          "hints": {
+            "first_error": "Think of a person who is not afraid to stand in front of many people."
+          },
+          "feedback": {
+            "correct": "正確。答案是 confident。",
+            "explanatory": "Confident means feeling sure of yourself and your abilities. This matches the clue about not feeling nervous in front of an audience. Outgoing means enjoying meeting people; it is a related but different quality."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "caring"
+            },
+            {
+              "id": "B",
+              "text": "careful"
+            },
+            {
+              "id": "C",
+              "text": "fit"
+            },
+            {
+              "id": "D",
+              "text": "confident"
+            }
+          ],
+          "correct_option_id": "D"
+        },
+        {
+          "id": "S2-Q03",
+          "type": "gap",
+          "prompt": "Complete the sentence with one adjective: Firefighters need to be ________. They show no fear in dangerous situations.",
+          "prompt_zh": "請填上一個合適的形容詞。",
+          "accepted_answers": [
+            "brave",
+            "courageous",
+            "fearless"
+          ],
+          "hints": {
+            "first_error": "What adjective means “showing no fear in danger”?"
+          },
+          "feedback": {
+            "correct": "正確。應填 brave。",
+            "explanatory": "Firefighters need to be brave. They go into dangerous situations and show no fear. Calm is also useful for firefighters, but the clue here is “no fear”."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "accept_notes": "Target unit word: brave. Accept courageous or fearless if independently supplied; they also match the clue."
+        },
+        {
+          "id": "S2-Q04",
+          "type": "mcq",
+          "prompt": "Social workers need to be ________. They can calmly listen as people share their problems.",
+          "prompt_zh": "請選出社工需要具備的特質。",
+          "accepted_answers": [
+            "patient"
+          ],
+          "hints": {
+            "first_error": "They have to listen carefully, without rushing the speaker."
+          },
+          "feedback": {
+            "correct": "正確。答案是 patient。",
+            "explanatory": "Social workers need to be patient so that they can listen calmly while people talk about their problems. They also need to be understanding, but that word is not in the options. Good-looking and athletic do not match this duty. Strong is about physical strength."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "good-looking"
+            },
+            {
+              "id": "B",
+              "text": "athletic"
+            },
+            {
+              "id": "C",
+              "text": "patient"
+            },
+            {
+              "id": "D",
+              "text": "strong"
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S2-Q05",
+          "type": "mcq",
+          "prompt": "Nurses need to be ________. They pay attention to other people’s needs.",
+          "prompt_zh": "請選出護士在此提示下需要具備的特質。",
+          "accepted_answers": [
+            "attentive"
+          ],
+          "hints": {
+            "first_error": "The clue is “pay attention to other people’s needs”."
+          },
+          "feedback": {
+            "correct": "正確。答案是 attentive。",
+            "explanatory": "Attentive means you pay attention to what others need. Caring is also important for nurses, but the clue here is paying attention. Creative is about new ideas; outgoing is about enjoying meeting people."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "creative"
+            },
+            {
+              "id": "B",
+              "text": "outgoing"
+            },
+            {
+              "id": "C",
+              "text": "attentive"
+            },
+            {
+              "id": "D",
+              "text": "artistic"
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S2-Q06",
+          "type": "gap",
+          "prompt": "Complete the sentence with one verb: Tour guides need to ________ tourists around different places.",
+          "prompt_zh": "請填上一個合適的動詞。",
+          "accepted_answers": [
+            "show",
+            "guide",
+            "take",
+            "lead"
+          ],
+          "hints": {
+            "first_error": "Tour guides take visitors around a place and point out interesting things."
+          },
+          "feedback": {
+            "correct": "正確。課本目標詞為 show；意思合適的其他動詞亦可接受。",
+            "explanatory": "Use need to + a base verb. The chapter model is: Tour guides need to show tourists around different places. Guide, take and lead can also fit this sentence."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "accept_notes": "Target unit verb: show. Guide, take and lead also form meaningful grammatical sentences here. Do not accept showing, shows or be show."
+        },
+        {
+          "id": "S2-Q07",
+          "type": "mcq",
+          "prompt": "Ella wants to be an athlete. Athletes need to be ________.",
+          "prompt_zh": "請選出運動員需要具備的特質。Ella 是女生，想成為運動員。",
+          "accepted_answers": [
+            "fit and strong"
+          ],
+          "hints": {
+            "first_error": "Think of the body an athlete needs for training and competitions."
+          },
+          "feedback": {
+            "correct": "正確。答案是 fit and strong。",
+            "explanatory": "Athletes need to be fit and strong. Ella’s plan in the unit is to join a sports team so that she can get fit and improve her skills. Good-looking and artistic are not the key requirements here, and “outgoing and famous” is not a unit requirement for athletes."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "good-looking and artistic"
+            },
+            {
+              "id": "B",
+              "text": "fit and strong"
+            },
+            {
+              "id": "C",
+              "text": "outgoing and famous"
+            },
+            {
+              "id": "D",
+              "text": "quiet and careful"
+            }
+          ],
+          "accept_notes": "The keyed option is 'fit and strong'. If a later free-text mode is added, also accept 'strong and fit'.",
+          "correct_option_id": "B"
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "order": 3,
+      "title": "So that",
+      "title_zh": "第三關：so that 表示目的",
+      "intro_zh": "本關練習用 so that 表明目的（常與 can 連用），並分辨 because（原因）和 so that（目的）。請先自行作答；如第一次答錯，才會出現提示。",
+      "intro_en": "Practise so that for purposes, and contrast it with because for reasons.",
+      "question_count": 7,
+      "questions": [
+        {
+          "id": "S3-Q01",
+          "type": "mcq",
+          "prompt": "In this unit we use “so that” to show ________.",
+          "prompt_zh": "請選出 so that 在本課的用法。",
+          "accepted_answers": [
+            "a purpose"
+          ],
+          "hints": {
+            "first_error": "Look at the example: I’m going to read more books so that I can learn more about history."
+          },
+          "feedback": {
+            "correct": "正確。答案是 a purpose。",
+            "explanatory": "So that shows a purpose (why you do something, often with can). Because shows a reason. So that is not used here to name a job or a person, and it is not the same as so for a result."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "a job title"
+            },
+            {
+              "id": "B",
+              "text": "a purpose"
+            },
+            {
+              "id": "C",
+              "text": "a person’s name"
+            },
+            {
+              "id": "D",
+              "text": "a past tense only"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S3-Q02",
+          "type": "mcq",
+          "prompt": "Which sentence uses “so that” to show a purpose?",
+          "prompt_zh": "請選出以 so that 表明目的的句子。",
+          "accepted_answers": [
+            "I’m going to read more books so that I can learn more about the history of different places."
+          ],
+          "hints": {
+            "first_error": "Find the sentence that tells us the purpose of reading more books."
+          },
+          "feedback": {
+            "correct": "正確。答案是第一句，使用 so that 表明目的。",
+            "explanatory": "I’m going to read more books so that I can learn more about the history of different places. The phrase so that I can … states the purpose. The because sentence gives a reason, but it also does not make good sense (reading books because you like shopping). The other two sentences have no so that."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "I’m going to read more books so that I can learn more about the history of different places."
+            },
+            {
+              "id": "B",
+              "text": "I’m going to read more books because I like shopping."
+            },
+            {
+              "id": "C",
+              "text": "Tour guides are outgoing."
+            },
+            {
+              "id": "D",
+              "text": "I love animals."
+            }
+          ],
+          "correct_option_id": "A"
+        },
+        {
+          "id": "S3-Q03",
+          "type": "mcq",
+          "prompt": "Choose because or so that: Lily wants to be a tour guide ________ she likes meeting people from different places.",
+          "prompt_zh": "請選出 because 或 so that。Lily 是女生，想成為導遊。",
+          "accepted_answers": [
+            "because"
+          ],
+          "hints": {
+            "first_error": "This clause tells us the reason why Lily likes the job, not the purpose of a future plan."
+          },
+          "feedback": {
+            "correct": "正確。答案是 because。",
+            "explanatory": "Because introduces a reason: she likes meeting people. So that would introduce a purpose, usually with I can / she can after a plan, for example I’m going to read more books so that I can learn more about history."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "so that"
+            },
+            {
+              "id": "B",
+              "text": "because"
+            },
+            {
+              "id": "C",
+              "text": "need to"
+            },
+            {
+              "id": "D",
+              "text": "or"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S3-Q04",
+          "type": "mcq",
+          "prompt": "Henry wants to be a pop singer. Choose the purpose linker taught in this unit: “I’m going to join the school choir ________ I can improve my singing.”",
+          "prompt_zh": "請選出本課用來表明目的的連接詞，完成 Henry 的計劃。",
+          "accepted_answers": [
+            "so that"
+          ],
+          "hints": {
+            "first_error": "He is joining the choir for a purpose: to improve his singing."
+          },
+          "feedback": {
+            "correct": "正確。答案是 so that。",
+            "explanatory": "So that explicitly introduces the purpose: improving his singing. Because introduces a reason; the question specifically asks for the purpose linker. Need to and if do not fit."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "because"
+            },
+            {
+              "id": "B",
+              "text": "need to"
+            },
+            {
+              "id": "C",
+              "text": "so that"
+            },
+            {
+              "id": "D",
+              "text": "if"
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S3-Q05",
+          "type": "gap",
+          "prompt": "Carrie wants to be a violinist. Complete the word using play: “I’m going to practise the violin every day so that I can improve my ________.”",
+          "prompt_zh": "請用 play 的適當形式填上一個英文單詞，完成 Carrie 的計劃。",
+          "accepted_answers": [
+            "playing"
+          ],
+          "hints": {
+            "first_error": "What does daily practice help her improve?"
+          },
+          "feedback": {
+            "correct": "正確。應填 playing。",
+            "explanatory": "Carrie is going to practise the violin every day so that she can improve her playing. The purpose of the practice is better playing, not a new job title in this sentence."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "accept_notes": "Accept only 'playing' (case-insensitive). Do not accept play or to play."
+        },
+        {
+          "id": "S3-Q06",
+          "type": "mcq",
+          "prompt": "Brandon wants to be an engineer. Engineers need to be good at Science and Maths. He says, “I’m going to study hard so that ________.”",
+          "prompt_zh": "請選出最能完成目的子句的選項。Brandon 是男生，想成為工程師。",
+          "accepted_answers": [
+            "I can get good grades in these two subjects"
+          ],
+          "hints": {
+            "first_error": "His resolution is to study hard. What purpose does that have in Science and Maths?"
+          },
+          "feedback": {
+            "correct": "正確。答案是 I can get good grades in these two subjects。",
+            "explanatory": "Brandon is going to study hard so that he can get good grades in Science and Maths (“these two subjects”). The other options are about different jobs or do not state a purpose that matches his plan."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "I can cook delicious dishes"
+            },
+            {
+              "id": "B",
+              "text": "I can get good grades in these two subjects"
+            },
+            {
+              "id": "C",
+              "text": "I ate dinner early"
+            },
+            {
+              "id": "D",
+              "text": "I can show tourists around the city"
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S3-Q07",
+          "type": "gap",
+          "prompt": "Complete the sentence with so that or because: “I am going to work hard ________ my dream can come true.”",
+          "prompt_zh": "請填上 so that 或 because。",
+          "accepted_answers": [
+            "so that"
+          ],
+          "hints": {
+            "first_error": "The second part is the purpose of working hard, and it uses can."
+          },
+          "feedback": {
+            "correct": "正確。應填 so that。",
+            "explanatory": "I am going to work hard so that my dream can come true. So that introduces the purpose. Because is used for a reason (for example, I want to be a pianist because I love music). Do not write only so; in this unit so and so that are not the same."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "accept_notes": "Accept 'so that' only (case-insensitive, extra inner spaces ignored). Do not accept so, because, or so that I."
+        }
+      ]
+    },
+    {
+      "id": "S4",
+      "order": 4,
+      "title": "Reading",
+      "title_zh": "第四關：閱讀理解",
+      "intro_zh": "請閱讀一篇關於狗訓練員的短文（練習原創，資料已附於題目中），然後作答。短文運用本課的特質詞彙和 so that。請先自行作答；如第一次答錯，才會出現提示。",
+      "intro_en": "Read a short original text about a dog trainer and answer the questions. All needed information is in the text.",
+      "question_count": 7,
+      "questions": [
+        {
+          "id": "S4-Q01",
+          "type": "mcq",
+          "prompt": "Read the text. Why do many pet dogs misbehave?",
+          "prompt_zh": "請先閱讀短文，然後選出正確答案。所需資料已在短文中。",
+          "accepted_answers": [
+            "because their owners have not trained them properly"
+          ],
+          "hints": {
+            "first_error": "Look at the first paragraph. What have some owners not done?"
+          },
+          "feedback": {
+            "correct": "正確。許多寵物狗行為不好，是因為主人未有妥善訓練牠們。",
+            "explanatory": "The text says many pet dogs misbehave because their owners have not trained them properly. It does not say that the dogs are wild, that Leo dislikes dogs, or that they cannot sit."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "because their owners have not trained them properly"
+            },
+            {
+              "id": "B",
+              "text": "because they are all wild animals"
+            },
+            {
+              "id": "C",
+              "text": "because Leo does not like dogs"
+            },
+            {
+              "id": "D",
+              "text": "because they cannot sit"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "A"
+        },
+        {
+          "id": "S4-Q02",
+          "type": "mcq",
+          "prompt": "Read the text. How long did Leo study at the training school?",
+          "prompt_zh": "請先閱讀短文，然後選出正確答案。所需資料已在短文中。",
+          "accepted_answers": [
+            "two years"
+          ],
+          "hints": {
+            "first_error": "Look for the sentence about Leo’s special training."
+          },
+          "feedback": {
+            "correct": "正確。Leo 在訓練學校學習了兩年。",
+            "explanatory": "Leo studied at a training school for two years. The other times are not in the text."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "two days"
+            },
+            {
+              "id": "B",
+              "text": "two weeks"
+            },
+            {
+              "id": "C",
+              "text": "two years"
+            },
+            {
+              "id": "D",
+              "text": "twenty years"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S4-Q03",
+          "type": "mcq",
+          "prompt": "Read the text. A dog trainer needs to be patient because ________.",
+          "prompt_zh": "請先閱讀短文，然後完成句子。所需資料已在短文中。",
+          "accepted_answers": [
+            "he may need to repeat a training exercise many times"
+          ],
+          "hints": {
+            "first_error": "Find the sentence that comes after “needs to be patient”."
+          },
+          "feedback": {
+            "correct": "正確。訓練員需要有耐心，因為同一個練習可能要重複許多次。",
+            "explanatory": "Leo says a trainer needs to be patient because he may need to repeat a training exercise many times before a dog learns a new skill. The job is not described as always easy, and good looks are not the reason given."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "he needs to be good-looking"
+            },
+            {
+              "id": "B",
+              "text": "he may need to repeat a training exercise many times"
+            },
+            {
+              "id": "C",
+              "text": "dogs never learn new skills"
+            },
+            {
+              "id": "D",
+              "text": "the job is always easy"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S4-Q04",
+          "type": "mcq",
+          "prompt": "Read the text. Leo needs to be calm and confident so that ________.",
+          "prompt_zh": "請先閱讀短文，然後完成以 so that 開頭的目的。所需資料已在短文中。",
+          "accepted_answers": [
+            "he can manage difficult dogs"
+          ],
+          "hints": {
+            "first_error": "Look for calm and confident, then read the so that clause."
+          },
+          "feedback": {
+            "correct": "正確。他需要保持冷靜和有自信，才能應付難馴的狗。",
+            "explanatory": "He needs to be calm and confident so that he can manage difficult dogs. The other options are not in the text and do not give this purpose."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "he can become a chef"
+            },
+            {
+              "id": "B",
+              "text": "he can chew the furniture"
+            },
+            {
+              "id": "C",
+              "text": "he can manage difficult dogs"
+            },
+            {
+              "id": "D",
+              "text": "he can give up his job"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S4-Q05",
+          "type": "mcq",
+          "prompt": "Read the text. If a trainer feels nervous or unsure, the dogs ________.",
+          "prompt_zh": "請先閱讀短文，然後選出正確答案。所需資料已在短文中。",
+          "accepted_answers": [
+            "will not listen to him"
+          ],
+          "hints": {
+            "first_error": "The text says dogs can sense how you feel. What happens if the trainer feels nervous?"
+          },
+          "feedback": {
+            "correct": "正確。如果訓練員感到緊張或沒有把握，狗就不會聽話。",
+            "explanatory": "Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. The other options are not in the text."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "will not listen to him"
+            },
+            {
+              "id": "B",
+              "text": "will cook dinner"
+            },
+            {
+              "id": "C",
+              "text": "will always sit at once"
+            },
+            {
+              "id": "D",
+              "text": "will read a book"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "A"
+        },
+        {
+          "id": "S4-Q06",
+          "type": "mcq",
+          "prompt": "Read the text. What does Leo give a dog when it does something good?",
+          "prompt_zh": "請先閱讀短文，然後選出正確答案。所需資料已在短文中。",
+          "accepted_answers": [
+            "a tasty treat"
+          ],
+          "hints": {
+            "first_error": "Look at the paragraph about “rewarding good behaviour”."
+          },
+          "feedback": {
+            "correct": "正確。狗表現良好時，Leo 會稱讚牠，並給牠美味的獎勵。",
+            "explanatory": "Leo uses the rewarding good behaviour method. He praises the dog and gives it a tasty treat when it does something good. He does not give a bicycle, a school or a newspaper as a reward."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "a new bicycle"
+            },
+            {
+              "id": "B",
+              "text": "a tasty treat"
+            },
+            {
+              "id": "C",
+              "text": "a training school"
+            },
+            {
+              "id": "D",
+              "text": "a newspaper"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S4-Q07",
+          "type": "mcq",
+          "prompt": "Read the text. What is the main purpose of this article?",
+          "prompt_zh": "請先閱讀短文，然後選出文章的主要目的。所需資料已在短文中。請想一想：作者為甚麼寫這篇文章？",
+          "accepted_answers": [
+            "to give information about an interesting job"
+          ],
+          "hints": {
+            "first_error": "Think about the whole text, not only one difficult moment. Why was it written?"
+          },
+          "feedback": {
+            "correct": "正確。這篇文章的主要目的是介紹一份有趣的工作。",
+            "explanatory": "The article tells us about Leo’s job, the qualities he needs, his method and a success story. Its main purpose is to give information about an interesting job. It is not mainly a cooking lesson, a notice about school uniforms, or an instruction to give up pets."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "to show people how to cook dinner"
+            },
+            {
+              "id": "B",
+              "text": "to give information about an interesting job"
+            },
+            {
+              "id": "C",
+              "text": "to find a new school uniform"
+            },
+            {
+              "id": "D",
+              "text": "to tell people to give up their pets"
+            }
+          ],
+          "stimulus": "Leo Chan is a professional dog trainer in Hong Kong. Many pet dogs misbehave because their owners have not trained them properly.\n\nLeo has always loved animals. He studied at a training school for two years. It was hard work. He had to learn a lot about dog behaviour and take lots of tests.\n\nLeo says a dog trainer needs to be patient. He may need to repeat a training exercise many times before a dog learns a new skill. He also needs to be calm and confident so that he can manage difficult dogs. Dogs can sense how you feel. If you feel nervous or unsure, they will not listen to you. Good trainers need to be creative too, so that they can come up with new ways of solving problems.\n\nLeo uses the “rewarding good behaviour” method. He praises the dog and gives it a tasty treat when it does something good. He teaches dogs to sit, stay and come.\n\nLast year, Leo helped a family who wanted to give up their dog because it barked all day. After training, the family decided to keep their pet. “I think I have the best job in the world,” says Leo.",
+          "accept_notes": "Answers are based only on the short text provided with the question, not on an unseen textbook page.",
+          "correct_option_id": "B"
+        }
+      ]
+    },
+    {
+      "id": "S5",
+      "order": 5,
+      "title": "Writing skills",
+      "title_zh": "第五關：寫作技巧與短寫",
+      "intro_zh": "本關練習主題句與支持句，並刪去不屬於該段的句子。最後一題為短寫，不設自動評分，交由教師審閱。請先自行作答；選擇題如第一次答錯，才會出現提示。",
+      "intro_en": "Practise topic and supporting sentences, and write a short paragraph about a dream job for the teacher to review.",
+      "question_count": 7,
+      "questions": [
+        {
+          "id": "S5-Q01",
+          "type": "mcq",
+          "prompt": "A topic sentence in a paragraph ________.",
+          "prompt_zh": "請選出主題句（topic sentence）的作用。",
+          "accepted_answers": [
+            "states the main idea of the paragraph"
+          ],
+          "hints": {
+            "first_error": "The topic sentence usually comes first and tells us what the paragraph is about."
+          },
+          "feedback": {
+            "correct": "正確。主題句用來表明段落的中心意思。",
+            "explanatory": "A topic sentence states the main idea of the paragraph. The supporting sentences after it give details, reasons or examples. It is not always a question, it is not only a past-tense rule, and it is not “the last word of a story”."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "states the main idea of the paragraph"
+            },
+            {
+              "id": "B",
+              "text": "must always be a question"
+            },
+            {
+              "id": "C",
+              "text": "must always be in the past tense"
+            },
+            {
+              "id": "D",
+              "text": "is the last word of a story"
+            }
+          ],
+          "correct_option_id": "A"
+        },
+        {
+          "id": "S5-Q02",
+          "type": "mcq",
+          "prompt": "Read this paragraph: “I want to be a chef because I love food. I enjoy trying new dishes. I started cooking with my father when I was eight. I always do well in my Music exams too.” Which sentence does not belong?",
+          "prompt_zh": "請選出不屬於這一段的句子。這一段的中心是想成為廚師的原因。",
+          "accepted_answers": [
+            "I always do well in my Music exams too."
+          ],
+          "hints": {
+            "first_error": "Every supporting sentence should stay on the main idea: why the writer wants to be a chef."
+          },
+          "feedback": {
+            "correct": "正確。應刪去 I always do well in my Music exams too。",
+            "explanatory": "The topic is wanting to be a chef because of a love of food. Music exam results do not support that idea, so that sentence should be crossed out. The other three sentences all stay on food and cooking."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "I want to be a chef because I love food."
+            },
+            {
+              "id": "B",
+              "text": "I enjoy trying new dishes."
+            },
+            {
+              "id": "C",
+              "text": "I started cooking with my father when I was eight."
+            },
+            {
+              "id": "D",
+              "text": "I always do well in my Music exams too."
+            }
+          ],
+          "correct_option_id": "D"
+        },
+        {
+          "id": "S5-Q03",
+          "type": "mcq",
+          "prompt": "Read this paragraph about requirements: “It is not easy to become a violinist. Violinists need to practise every day so that they can play well. I think footballers need to practise a lot too. Violinists also need to be patient so that they can learn difficult music.” Which sentence does not belong?",
+          "prompt_zh": "請選出不屬於這一段的句子。這一段的中心是小提琴家需要具備的條件。",
+          "accepted_answers": [
+            "I think footballers need to practise a lot too."
+          ],
+          "hints": {
+            "first_error": "Stay on violinists and their requirements. Which sentence moves to a different job?"
+          },
+          "feedback": {
+            "correct": "正確。應刪去 I think footballers need to practise a lot too。",
+            "explanatory": "The paragraph is about what violinists need. The sentence about footballers does not belong. The other sentences stay on the idea that becoming a violinist is not easy and that practice and patience are required."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "It is not easy to become a violinist."
+            },
+            {
+              "id": "B",
+              "text": "Violinists need to practise every day so that they can play well."
+            },
+            {
+              "id": "C",
+              "text": "I think footballers need to practise a lot too."
+            },
+            {
+              "id": "D",
+              "text": "Violinists also need to be patient so that they can learn difficult music."
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S5-Q04",
+          "type": "mcq",
+          "prompt": "Which sentence is the best topic sentence for a paragraph about resolutions (what you are going to do)?",
+          "prompt_zh": "請選出最適合作「決心／計劃」段落主題句的一句。",
+          "accepted_answers": [
+            "I am going to work hard so that my dream can come true."
+          ],
+          "hints": {
+            "first_error": "Look for a main idea about future plans with going to."
+          },
+          "feedback": {
+            "correct": "正確。主題句應表明這一段是關於實現夢想的計劃。",
+            "explanatory": "I am going to work hard so that my dream can come true. is a clear topic sentence for a resolutions paragraph. The other sentences are about liking concerts, a famous person, or furniture, and they do not state this main idea."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "I love watching concerts."
+            },
+            {
+              "id": "B",
+              "text": "The furniture was old."
+            },
+            {
+              "id": "C",
+              "text": "I am going to work hard so that my dream can come true."
+            },
+            {
+              "id": "D",
+              "text": "Lang Lang is a famous pianist."
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S5-Q05",
+          "type": "mcq",
+          "prompt": "The topic sentence is: “Pianists need to be confident.” Which is the best supporting sentence?",
+          "prompt_zh": "請選出最能支持此主題句的一句。",
+          "accepted_answers": [
+            "They must not get nervous about playing in front of a big audience."
+          ],
+          "hints": {
+            "first_error": "A supporting sentence should explain or give an example of a pianist’s confidence."
+          },
+          "feedback": {
+            "correct": "正確。支持句應說明或舉例鋼琴家為甚麼需要有自信。",
+            "explanatory": "Playing for an audience explains why pianists need confidence. Maths results, chefs and a barking dog do not support this main idea."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "I always do well in my Maths exams too."
+            },
+            {
+              "id": "B",
+              "text": "They must not get nervous about playing in front of a big audience."
+            },
+            {
+              "id": "C",
+              "text": "Chefs cook delicious dishes."
+            },
+            {
+              "id": "D",
+              "text": "The dog barked all the time."
+            }
+          ],
+          "correct_option_id": "B"
+        },
+        {
+          "id": "S5-Q06",
+          "type": "mcq",
+          "prompt": "In the outline for “Writing about my dream job”, what should you put in the introduction?",
+          "prompt_zh": "請選出引言（Introduction）應寫的內容。",
+          "accepted_answers": [
+            "what you want to be when you grow up"
+          ],
+          "hints": {
+            "first_error": "The introduction starts the writing and tells the reader your dream job."
+          },
+          "feedback": {
+            "correct": "正確。引言應寫出你長大後想從事的工作。",
+            "explanatory": "The introduction should say what you want to be when you grow up. Your favourite colour, a list of every job, or a PE rule would not make a useful opening for this task."
+          },
+          "teacher_review": false,
+          "marks": 1,
+          "options": [
+            {
+              "id": "A",
+              "text": "only your favourite colour"
+            },
+            {
+              "id": "B",
+              "text": "a list of every job in the world"
+            },
+            {
+              "id": "C",
+              "text": "what you want to be when you grow up"
+            },
+            {
+              "id": "D",
+              "text": "a new school rule about PE"
+            }
+          ],
+          "correct_option_id": "C"
+        },
+        {
+          "id": "S5-Q07",
+          "type": "teacher_review",
+          "prompt": "Write 2 or 3 complete sentences about your dream job. Say what you want to be, one quality you need to have (use need to be), and one thing you are going to do so that you can make your dream come true.",
+          "prompt_zh": "請用 2 至 3 個完整英文句子作答：寫出你的夢想工作、這份工作需要具備的一項特質（請使用 need to be），以及你打算做的一件事（請使用 going to … so that …）。此題不設自動評分，交由教師審閱。",
+          "accepted_answers": [],
+          "hints": {
+            "first_error": "Use complete sentences. Include a job, need to be + an adjective, and I’m going to … so that I can … ."
+          },
+          "feedback": {
+            "correct": "已提交，請交教師審閱。",
+            "explanatory": "There is no single correct answer. A good reply names a dream job, gives a suitable quality with need to be, and states a plan with going to and so that. The teacher will review the writing. A model is provided for teachers only."
+          },
+          "teacher_review": true,
+          "marks": 3,
+          "accept_notes": "Open response. Suggested model (範例／教師用): I want to be a dog trainer when I grow up because I love animals. Dog trainers need to be patient and calm. I am going to read training books so that I can learn how to teach dogs new skills.",
+          "note": "teacher_review: do not auto-mark and do not award automatic mastery. Show a state such as「已提交，請交教師審閱」. Do not use a strict sentence-count regex, because abbreviations such as Mr Brown must not be rejected."
+        }
+      ]
+    }
+  ]
+}

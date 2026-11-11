@@ -1,0 +1,14 @@
+{
+  "name": "peter-dream-big",
+  "private": true,
+  "description": "Static five-station classroom practice for Longman English Leap 6A Chapter 2 Dream big.",
+  "scripts": {
+    "test": "node --test tests/content.test.js tests/marking.test.js tests/browser.test.js",
+    "test:unit": "node --test tests/content.test.js tests/marking.test.js",
+    "test:browser": "node --test tests/browser.test.js",
+    "start": "node tests/serve.js"
+  },
+  "devDependencies": {
+    "puppeteer-core": "24.15.0"
+  }
+}
